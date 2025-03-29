@@ -10,4 +10,4 @@ The following libraries were utilised in the process of carrying out this projec
 * Matplotlib: Data Visulaization tool
 * Plotly.express: Another data visualization tool, but more interactive.
 * train_test_split: Scikit learn library used to split data into training and test sets.
-* 
+* Machine Learning models: Random Forest Regressor, Linear Regression, Decision Tree Regressor
