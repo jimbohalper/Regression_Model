@@ -11,3 +11,5 @@ The following libraries were utilised in the process of carrying out this projec
 * Plotly.express: Another data visualization tool, but more interactive.
 * train_test_split: Scikit learn library used to split data into training and test sets.
 * Machine Learning models: Random Forest Regressor, Linear Regression, Decision Tree Regressor
+* sklearn.pipeline: Created a pipeline to iterate over each model.
+* Sklearn.metrics: Used to evaluate the performance of the Regression models (Metrics used: Mean Absolute Error, Root Mean Square Error and R **2 score)
